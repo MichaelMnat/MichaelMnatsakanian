@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MichaelMnatsakanian
-- 👀 I’m interested in pivoting into a tech career as a Software Engineer or as a Data Scientist
 - 🌱 I’m currently learning Fullstack Web Development through the Fullstack Academy bootcamp. I am also self-learning data science/analytics.
-- 💞️ I’m looking to collaborate on - Not sure yet
+- 💞️ I’m looking to collaborate on - any interesting projects, ideally focusing on the environment, finance, sports, or data analytics
 - 📫 How to reach me michaelmnat@gmail.com
 
 <!---
